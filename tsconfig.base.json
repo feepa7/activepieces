@@ -232,6 +232,9 @@
       "@activepieces/piece-comfyicu": [
         "packages/pieces/community/comfyicu/src/index.ts"
       ],
+      "@activepieces/piece-conectorteste": [
+        "packages/pieces/custom/conectorteste/src/index.ts"
+      ],
       "@activepieces/piece-confluence": [
         "packages/pieces/community/confluence/src/index.ts"
       ],
